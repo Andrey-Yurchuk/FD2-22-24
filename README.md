@@ -1,6 +1,6 @@
 # FD2-22-24
 
-<img src="./images/kandinskiy_picasso.jpg" alt="Logo repository" style="border-radius: 15px; width: 600px; height: 400px;">
+<img src="./images/kandinskiy_picasso.jpg" alt="Logo repository" style="border-radius: 15px; width: 750px; height: 450px;">
 
 ## Description
 
