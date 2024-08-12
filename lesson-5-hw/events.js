@@ -45,7 +45,7 @@ Event.prototype.listParticipants = function() {
         console.log("There are no participants.");
         return;
     }
-    this.participants.forEach(function(participant, index) {
+    this.participants.forEach(function(participant) {
         console.log(`${participant.name} (${participant.email})`);
     });
 };
